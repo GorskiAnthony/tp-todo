@@ -4,7 +4,9 @@ Nous allons encore voir des notions JavaScript dans ce tp.
 
 Qu'allons-nous faire ?
 
-Un tp todo list qui va permettre d'enregistrer des informations dans notre liste et cocher pour dire si c'est fait ou pas !
+Un tp todo list qui va permettre d'enregistrer des informations dans notre liste et cocher pour dire si c'est fait ou pas ! 
+
+Resultat final : https://tp-todo.vercel.app/
 
 ## Etape 1 HTML
 
